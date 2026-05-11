@@ -1,0 +1,81 @@
+# [theme]
+The majestic and divine process of God creating the world with intense, dramatic lighting.
+
+# [purpose]
+To visually depict the grand scale and mystical beauty of creation through a lens of high-contrast Tenebrism lighting.
+
+# [audience]
+Fans of epic fantasy, mythology, and cinematic storytelling.
+
+# [visualMaterial]
+[
+  "aigc"
+]
+
+# [duration]
+20
+
+# [mediaType]
+clip
+
+# [ratio]
+16:9
+
+# [platform]
+Instagram
+
+# [videoContent]
+**The Genesis of Divine Light**
+
+- **Beginning**: A vast, dark void of primordial space. Sudden, intense shafts of golden light tear through the deep shadows, creating a high-contrast spectacle as cosmic energy swirls and nebulae ignite with moody, Tenebrist depth.
+
+- **Development**: Massive celestial bodies emerge from thick darkness, rim-lit by a distant, powerful source. A glowing Earth takes shape, its surface a battleground of molten light and heavy, dramatic shadows under churning clouds.
+
+- **Climax**: Colossal hands of pure light descend from the darkness to the planet's surface. High-contrast lighting emphasizes the surge of oceans and the sudden rise of jagged mountains, creating a sense of dramatic scale and divine power.
+
+- **Conclusion**: The camera pans out to reveal the completed world, partially veiled in shadow but radiating a brilliant, warm accent light that emphasizes its divine majesty and silent peace.
+
+# [videoNarration]
+
+
+# [bgmStyle]
+Dramatic Cinematic Epic Orchestral
+
+# [bgmId]
+7338805433086461954
+
+# [subtitleInfo]
+{
+  "subtitleId": "7439642914755497277",
+  "subtitlePrompt": "粗体、无衬线字体、橙黄色渐变、白色描边、活力、适合高冲击力的画面、适合教育视频或市场营销"
+}
+
+# [characters]
+
+
+# [materialReferences]
+
+
+# [ttsList]
+[
+  {
+    "id": "7519726998973910288",
+    "speed": 1
+  }
+]
+
+# [digitalHumanList]
+
+
+# [styleList]
+[
+  {
+    "styleValue": "Eldritch Style"
+  }
+]
+
+# [referenceNodeIds]
+
+
+# [rawReferences]
+
