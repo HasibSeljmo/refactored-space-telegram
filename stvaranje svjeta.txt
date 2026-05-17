@@ -78,4 +78,12 @@ Dramatic Cinematic Epic Orchestral
 
 
 # [rawReferences]
-
+.github/
+  skills/
+    github-issues/
+      SKILL.md
+      templates/
+        bug-report.md
+    code-review/
+      SKILL.md
+      checklist.md
